@@ -1,8 +1,8 @@
 database:
   host: "localhost"
   port: 5432
-  user: "postgres"
-  password: "postgres"
+  user: "myuser"
+  password: "mypass"
   name: "testdb"
 server:
   host: "localhost"
